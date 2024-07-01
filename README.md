@@ -1,4 +1,4 @@
-# weather-crime-relationship
+# Weather & Crime Relationship
 
 Data preprocessing:
 
